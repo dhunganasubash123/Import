@@ -7,6 +7,7 @@ public class AnotherGit {
 		
 		System.out.println("Hi there");
 		System.out.println("Namaste");
+		System.out.println("Welcome to github");
 
 	}
 
